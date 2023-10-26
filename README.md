@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahedihasanbijoy.github.io/](https://mahedihasanbijoy.github.io/)
 
-- 💬 Ask me about **php, laravel, rest api, mysql**
+- 💬 Ask me about **php, laravel, rest api, mysql, web development**
 
 - 📫 How to reach me **bijoycse2014@gmail.com**
 
