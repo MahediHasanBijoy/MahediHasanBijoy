@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hasan Bijoy</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Backend Development with Laravel, MySQL**
+- 🌱 I’m currently working as a **Software Engineer at Urban It Solution**
 
 - 👨‍💻 All of my projects are available at [https://mahedihasanbijoy.github.io/](https://mahedihasanbijoy.github.io/)
 
